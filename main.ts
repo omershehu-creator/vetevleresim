@@ -1,8 +1,3 @@
-input.onButtonPressed(Button.A, function () {
-    if (false) {
-    	
-    }
-})
 input.onButtonPressed(Button.B, function () {
     if (false) {
     	
